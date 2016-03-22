@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="How to fill in the Template for Educational's"
+    Link="/Content/2 Educational Feedback Template/How to fill in the Template.htm" />
+  <TocEntry
+    Title="Introduction"
+    Link="/Content/2 Educational Feedback Template/1 Introduction.htm" />
+  <TocEntry
+    Title="Overview"
+    Link="/Content/2 Educational Feedback Template/2 Overview.htm" />
+  <TocEntry
+    Title="3 Property"
+    Link="/Content/2 Educational Feedback Template/3 Property.htm" />
+  <TocEntry
+    Title="4 Details"
+    Link="/Content/2 Educational Feedback Template/4 Details.htm" />
+  <TocEntry
+    Title="5 Images"
+    Link="/Content/2 Educational Feedback Template/5 Images.htm" />
+  <TocEntry
+    Title="6 Repeat slides"
+    Link="/Content/2 Educational Feedback Template/6 Repeat slides.htm" />
+  <TocEntry
+    Title="7 Warping up"
+    Link="/Content/2 Educational Feedback Template/7 Warping up.htm" />
+  <TocEntry
+    Title="8 Customisation"
+    Link="/Content/2 Educational Feedback Template/8 Customisation.htm">
+    <TocEntry
+      Title="Background"
+      Link="/Content/2 Educational Feedback Template/8.1 Background.htm" />
+    <TocEntry
+      Title="Animations"
+      Link="/Content/2 Educational Feedback Template/8.2 Animations.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Top tips for making a presentation"
+    Link="/Content/2 Educational Feedback Template/Top tips for making a presentation.htm" />
+</CatapultToc>

@@ -1,0 +1,199 @@
+/*<meta />*/
+
+body
+{
+	line-height: 1.7em;
+	margin: 17px;
+	max-width: 750px;
+	font-size: 10pt;
+	font-family: Verdana;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+	font-weight: bold;
+	color: #749AB6;
+}
+
+p.Hint
+{
+	border: solid 1px #BECFDC;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	padding: 14px 20px;
+	color: #000000;
+	text-align: center;
+	font-weight: normal;
+	font-style: italic;
+	background-color: #bdb76b;
+}
+
+p.note
+{
+	border: solid 1px #BFD62F;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	padding: 14px 20px;
+	color: #696969;
+	background-color: #ffffff;
+}
+
+a
+{
+	color: #5B8EC1;
+}
+
+MadCap|expanding
+{
+	mc-open-image: url('resources:Images/WebHelp/minus.png');
+	mc-closed-image: url('resources:Images/WebHelp/plus.png');
+	mc-image-position: left;
+}
+
+MadCap|dropDown
+{
+	mc-open-image: url('resources:Images/WebHelp/minus.png');
+	mc-closed-image: url('resources:Images/WebHelp/plus.png');
+}
+
+MadCap|toggler
+{
+	mc-open-image: url('resources:Images/WebHelp/minus.png');
+	mc-closed-image: url('resources:Images/WebHelp/plus.png');
+	color: inherit;
+}
+
+MadCap|popupHead
+{
+	color: #5B8EC1;
+}
+
+MadCap|popupBody
+{
+	color: #EBEBEB;
+	border: none;
+	background-color: rgba(0, 0, 0, .85);
+	padding: 11px 15px;
+}
+
+MadCap|glossaryTerm
+{
+	
+}
+
+MadCap|glossaryTerm.Expanding
+{
+	color: inherit;
+	font-weight: inherit;
+}
+
+MadCap|glossaryTerm.Hyperlink
+{
+	color: #5B8EC1;
+	font-weight: inherit;
+}
+
+MadCap|glossaryTerm.Popup
+{
+	color: #5B8EC1;
+	font-weight: normal;
+}
+
+MadCap|conceptLink
+{
+	color: #000000;
+}
+
+MadCap|keywordLink
+{
+	color: #000000;
+}
+
+MadCap|relatedTopics
+{
+	color: #000000;
+}
+
+MadCap|helpControlMenu
+{
+	color: #707070;
+	background-color: #FFFFFF;
+	border: none;
+}
+
+MadCap|helpControlMenuItem
+{
+	color: inherit;
+	font-size: inherit;
+	font-family: inherit;
+}
+
+MadCap|helpControlMenuItem.Highlighted
+{
+	color: #000000;
+	background-color: #E5EFF7;
+}
+
+p
+{
+	margin-top: 0;
+	margin-bottom: 0;
+	text-align: justify;
+}
+
+p.Concept
+{
+	text-align: justify;
+	color: #a9a9a9;
+}
+
+h1
+{
+	color: #bdb76b;
+	text-decoration: underline;
+	text-align: center;
+}
+
+h2
+{
+	color: #bdb76b;
+}
+
+p.Do_not
+{
+	border: solid 1px #BECFDC;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	padding: 14px 20px;
+	color: #000000;
+	text-align: center;
+	font-weight: normal;
+	font-style: italic;
+	background-color: #f08080;
+}
+
+h3
+{
+	color: #bdb76b;
+}
+
+h4
+{
+	font-size: 20pt;
+	color: #bdb76b;
+	text-decoration: underline;
+}
+
+b.yellow_bold
+{
+	color: #bdb76b;
+}
+
